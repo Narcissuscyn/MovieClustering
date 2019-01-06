@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1425126721 source:e:\编程记录\c++\film\main.cpp
+	<iostream>
+	"film.h"
+
+1425127091 source:e:\编程记录\c++\film\film.cpp
+	"film.h"
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+
+1425127051 e:\编程记录\c++\film\film.h
+	<fstream>
+	<iostream>
+
